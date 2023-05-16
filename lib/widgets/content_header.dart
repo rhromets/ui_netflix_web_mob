@@ -25,7 +25,7 @@ class ContentHeader extends StatelessWidget {
           ),
         ),
         Container(
-          height: 500.0,
+          height: 502.0,
           decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [Colors.black, Colors.transparent],
